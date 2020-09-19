@@ -10,7 +10,7 @@ const AboutPage = () => {
         <Head title="About" />
         <h1>About me</h1>
         <h2>Hi, I am Vania full-stack developer living in Toronto.</h2>
-        <p>Need a Developer? <Link to ="/contact"><a></a>Contact me.</Link></p>
+        <p>Need a Web Site Developer? <Link to ="/contact"><a></a>Contact me.</Link></p>
        </Layout>
     )
 

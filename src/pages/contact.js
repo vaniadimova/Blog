@@ -9,8 +9,8 @@ const ContactPage = () => {
       <Layout>
         <Head title="Contact" />
         <h1>Contact Page</h1>
-        <h2>Hi, I am Vania full-stack developer best way to contact me is via tweeter</h2>
-        <p>need a website?<a href="https://twitter.com/12Dimov" target="_blank"> just ckick this link</a></p>
+        <h2>Hi, I am Vania a full-stack web developer.Best way to contact me is via tweeter.</h2>
+        <p>Need a fast website?<a href="https://twitter.com/12Dimov" target="_blank">ckick this link</a></p>
       </Layout>
     )
 
